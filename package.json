@@ -1,0 +1,8 @@
+{
+  "name": "testrn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/foujitailai/aiyou.git",
+  "author": "foujitailai <foujitailaimail@163.com>",
+  "license": "MIT"
+}

@@ -25,7 +25,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          准备开始行动吧！
+          准备开始行动吧！fdsf
         </Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
@@ -41,7 +41,7 @@ export default class App extends Component<Props> {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
+    justifyContent:'center',
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
   },
